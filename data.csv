@@ -1,2 +1,11 @@
 "operatorCode","operatorName","countryName","countryCode","av_fleet_age","aircraft","models","aircraft_over_25y","routes","connections","destinations","annual_flights","annual_international_flights","is_iosa_certified","is_international","fatalaccidents_5y","accidents_5y"
-"CLX","Cargolux","Luxembourg","LUX",10.6,25,1,0,270,225,81,20165,20165,true,true,0,2
+"ABC","Abbe","Luxembourg","LUX",10.6,35,1,0,270,225,81,20165,20165,true,true,0,2
+"BCE","BCRsa","Russia","LUX",15.6,45,1,0,270,225,81,20165,20165,true,true,0,2
+"HGJ","High","Germany","LUX",12.6,15,1,0,270,225,81,20165,20165,true,true,0,2
+"BVJ","Bavaria","Russia","LUX",17.6,25,1,0,270,225,81,20165,20165,true,true,0,2
+"IHD","Home","United States","LUX",1.6,15,1,0,270,225,81,20165,20165,true,true,0,2
+"IGN","Different","Japan","LUX",24.6,35,1,0,270,225,81,20165,20165,true,true,0,2
+"OPN","Opende","China","LUX",15.6,15,1,0,270,225,81,20165,20165,true,true,0,2
+"CLS","Closed","United States","LUX",13.6,12,1,0,270,225,81,20165,20165,true,true,0,2
+"HFT","Muffin","Australia","LUX",11.6,11,1,0,270,225,81,20165,20165,true,true,0,2
+"HER","Girl","Australia","LUX",10.6,10,1,0,270,225,81,20165,20165,true,true,0,2
