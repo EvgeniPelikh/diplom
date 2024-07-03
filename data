@@ -1,0 +1,2 @@
+"operatorCode","operatorName","countryName","countryCode","av_fleet_age","aircraft","models","aircraft_over_25y","routes","connections","destinations","annual_flights","annual_international_flights","is_iosa_certified","is_international","fatalaccidents_5y","accidents_5y"
+"CLX","Cargolux","Luxembourg","LUX",10.6,25,1,0,270,225,81,20165,20165,true,true,0,2
